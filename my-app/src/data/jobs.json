@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "jobTitle": "Desenvolvedor Full Stack",
+      "companyName": "ACME Inc.",
+      "jobdesc": "Estamos procurando um desenvolvedor Full Stack para trabalhar em nossos projetos de software. O candidato ideal terá experiência em programação web, banco de dados e experiência em trabalhar com uma equipe de desenvolvimento.",
+      "location": "São Paulo",
+      "salary": "R$ 7.000 - R$ 10.000",
+      "publishedAt": "2022-02-14T13:05:00.000Z"
+    },
+    {
+      "id": 2,
+      "jobTitle": "Analista de Dados",
+      "companyName": "XYZ Corp.",
+      "jobdesc": "Procuramos um analista de dados para trabalhar em nossos projetos de análise de dados. O candidato ideal terá experiência em bancos de dados, análise estatística e programação em R ou Python.",
+      "location": "Rio de Janeiro",
+      "salary": "R$ 6.000 - R$ 8.000",
+      "publishedAt": "2022-02-12T09:30:00.000Z"
+    },
+    {
+      "id": 3,
+      "jobTitle": "Designer Gráfico",
+      "companyName": "Design Co.",
+      "jobdesc": "Estamos procurando um designer gráfico para criar e desenvolver materiais de design gráfico para nossos clientes. O candidato ideal terá habilidades em Adobe Creative Suite, design gráfico e layout.",
+      "location": "Belo Horizonte",
+      "salary": "R$ 5.000 - R$ 7.000",
+      "publishedAt": "2022-02-10T14:20:00.000Z"
+    },
+    {
+      "id": 4,
+      "jobTitle": "Gerente de Projetos",
+      "companyName": "Projetos Ltda.",
+      "jobdesc": "Procuramos um gerente de projetos para liderar nossos projetos de desenvolvimento de software. O candidato ideal terá experiência em liderança de equipe, gerenciamento de projetos e habilidades de comunicação.",
+      "location": "Brasília",
+      "salary": "R$ 10.000 - R$ 12.000",
+      "publishedAt": "2022-02-08T11:15:00.000Z"
+    },
+    {
+      "id": 5,
+      "jobTitle": "Analista de Suporte",
+      "companyName": "Suporte Inc.",
+      "jobdesc": "Estamos procurando um analista de suporte para fornecer suporte técnico aos nossos clientes. O candidato ideal terá habilidades em suporte técnico, resolução de problemas e comunicação.",
+      "location": "Porto Alegre",
+      "salary": "R$ 4.000 - R$ 6.000",
+      "publishedAt": "2022-02-05T16:40:00.000Z"
+    }]
